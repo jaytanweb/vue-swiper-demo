@@ -1,6 +1,6 @@
-# demo
+# vue-awesome-swiper demo
 
-> A Vue.js project
+> A simple vue-awesome-swiper demo
 
 ## Build Setup
 
